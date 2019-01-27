@@ -17,7 +17,7 @@ After that, click on the `Browse my computer` button to locate your zip file, su
 1. Your name
 2. Your NetID
 3. Assignment Number
-4. The sentence `I did not collaborate with anyone on this assignment`
+4. The statement `I did not collaborate with anyone on this assignment`
 5. Explain what you did for this assignment (brief)
     * Something like "Practice using scanner" or "using variables to store information" will be fine, but for future assignments, it is better to explain what you did for each question, since it will allow you to understand the materials more!
     * btw, you can also put the notes in the program itself as comments, and write "notes in the code" in the readme.
