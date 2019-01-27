@@ -18,7 +18,7 @@ After that, click on the `Browse my computer` button in blackboard to locate you
 2. Your NetID
 3. Assignment Number
 4. The sentence `I did not collaborate with anyone on this assignment`
-5. Explain what you did for each question (brief)
+5. Explain what you did for this assignment (brief)
+..* Something like "Practice using scanner" is ok, but for future assignments, it is better to explain what you did for each question, since it will allow you to understand the materials more.
 
-... something
 6. Anything you want to tell the TA
