@@ -19,6 +19,6 @@ After that, click on the `Browse my computer` button in blackboard to locate you
 3. Assignment Number
 4. The sentence `I did not collaborate with anyone on this assignment`
 5. Explain what you did for this assignment (brief)
-    * Something like "Practice using scanner" is ok, but for future assignments, it is better to explain what you did for each question, since it will allow you to understand the materials more.
+    * Something like "Practice using scanner" or "using variables to store information", but for future assignments, it is better to explain what you did for each question, since it will allow you to understand the materials more.
 
 6. Anything you want to tell the TA
