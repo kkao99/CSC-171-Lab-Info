@@ -19,5 +19,6 @@ After that, click on the `Browse my computer` button in blackboard to locate you
 3. Assignment Number
 4. The sentence `I did not collaborate with anyone on this assignment`
 5. Explain what you did for each question (brief)
-... * something
+
+... something
 6. Anything you want to tell the TA
