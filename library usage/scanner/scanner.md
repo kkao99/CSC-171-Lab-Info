@@ -16,7 +16,7 @@ somewhere in your code
 
 After using the scanner, don't forget to close it! It will not affect the overall program but it is a good practice to close the scanner after usage.
 ```java
-scanner.closed()
+scanner.close()
 ```
 
 ## Prompt
